@@ -3,6 +3,6 @@ def display_board
   puts("    |    |   ")
   puts("-----------")
   puts("    |    |   ")
-  print("-----------")
+  puts("-----------")
   puts("    |    |   ")
 end
